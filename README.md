@@ -1,5 +1,5 @@
 # Custom Logger Unity
-An custom and simple logging system for Unity
+An custom and simple logging system for Unity. In this logging system contain 3 level of loging: Green mean Information, Yellow mean Warning and Red mean Error.
 
 ## A. Example
 
@@ -23,4 +23,4 @@ public class DemoExample : MonoBehaviour
 
 ### 2. Result
 
-![example](https://github.com/Prima20/Custom-Logger-Unity/blob/master/images/example.jpg)
+![example](https://github.com/Prima20/Custom-Logger-Unity/blob/master/images/example.JPG)
